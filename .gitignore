@@ -1,0 +1,14 @@
+# Go
+/bin
+*.exe
+*.out
+
+# SQLite
+*.db
+
+# Editor
+.vscode
+.idea
+
+# OS
+.DS_Store
